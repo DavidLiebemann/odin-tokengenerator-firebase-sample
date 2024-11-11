@@ -1,0 +1,1 @@
+# odin-tokengenerator-firebase-sample
